@@ -26,3 +26,4 @@ int main() {
     delete[] a; // free memory
     return 0;
 }
+
